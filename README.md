@@ -3,7 +3,10 @@
 
 ---
 #### Simple Ajax Post is Credit to:
+***Please read this first**
 [https://github.com/jsdevel/google-form](https://github.com/jsdevel/google-form)
+
+**Client site form validations**
 
 index.html
 ```html
